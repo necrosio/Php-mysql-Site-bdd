@@ -1,0 +1,25 @@
+body {
+color:white;
+background-color:black;
+background-image: url(https://cdn.discordapp.com/attachments/790009936788455465/790151895850942464/image0.png);
+margin:0;
+
+}
+
+.text {
+  width: 3em;
+}
+
+.titre2
+{
+float : right;
+}
+
+.lead{
+	color: white;
+}
+
+.lead2{
+	color: white;
+	font-size: 1.2em;
+}
